@@ -1,0 +1,104 @@
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Infraestructure.deps.json
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Infraestructure.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Infraestructure.pdb
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Application.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Domain.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Application.pdb
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Domain.pdb
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.csproj.AssemblyReference.cache
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.AssemblyInfoInputs.cache
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.AssemblyInfo.cs
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.sourcelink.json
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraest.B0D41582.Up2Date
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\refint\Infraestructure.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.pdb
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\ref\Infraestructure.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Infraestructure.deps.json
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Application.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Domain.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Application.pdb
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.AssemblyInfo.cs
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.sourcelink.json
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraest.B0D41582.Up2Date
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\refint\Infraestructure.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.pdb
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\ref\Infraestructure.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Infraestructure.deps.json
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Infraestructure.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Infraestructure.pdb
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Application.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Domain.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Application.pdb
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Domain.pdb
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.csproj.AssemblyReference.cache
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.AssemblyInfoInputs.cache
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.AssemblyInfo.cs
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.sourcelink.json
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraest.B0D41582.Up2Date
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\refint\Infraestructure.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.pdb
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\ref\Infraestructure.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Infraestructure.deps.json
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Application.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Domain.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Application.pdb
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.AssemblyInfo.cs
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.sourcelink.json
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraest.B0D41582.Up2Date
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\refint\Infraestructure.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\Infraestructure.pdb
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Infraestructure\obj\Debug\net8.0\ref\Infraestructure.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\bin\Debug\net8.0\Infraestructure.deps.json
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\bin\Debug\net8.0\Application.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\bin\Debug\net8.0\Domain.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\bin\Debug\net8.0\Application.pdb
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\bin\Debug\net8.0\Domain.pdb
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\obj\Debug\net8.0\Infraestructure.csproj.AssemblyReference.cache
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\obj\Debug\net8.0\Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\obj\Debug\net8.0\Infraestructure.AssemblyInfoInputs.cache
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\obj\Debug\net8.0\Infraestructure.AssemblyInfo.cs
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\obj\Debug\net8.0\Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\obj\Debug\net8.0\Infraest.B0D41582.Up2Date
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\obj\Debug\net8.0\Infraestructure.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\obj\Debug\net8.0\refint\Infraestructure.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\obj\Debug\net8.0\Infraestructure.pdb
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Infraestructure\obj\Debug\net8.0\ref\Infraestructure.dll

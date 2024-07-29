@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "DzG7OvggIWBM7hYuq/AVO+kBdnib59qMnGBKW/uHcDX6hMbzVlO9k8JzGXQuXCC/cdIvcWbKteZsOvgLEEeUUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alerc\\Desktop\\TPILaboratorio3-main\\APITPILaboratorio3-master\\Infraestructure\\Infraestructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alerc\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\alerc\\.nuget\\packages\\selenium.webdriver\\4.21.0\\selenium.webdriver.4.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}

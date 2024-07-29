@@ -1,0 +1,219 @@
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\appsettings.Development.json
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\appsettings.json
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.exe
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.deps.json
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.runtimeconfig.json
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.pdb
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\WebDriver.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Application.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Domain.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Infraestructure.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Application.pdb
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Infraestructure.pdb
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Domain.pdb
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.sourcelink.json
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets.build.json
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets.development.json
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.props
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.props
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\scopedcss\bundle\Web.styles.css
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.csproj.Up2Date
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\refint\Web.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.pdb
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.genruntimeconfig.cache
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\ref\Web.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\appsettings.json
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.exe
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.deps.json
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.runtimeconfig.json
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.pdb
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\WebDriver.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Application.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Domain.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Application.pdb
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Domain.pdb
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.sourcelink.json
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.props
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.props
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\scopedcss\bundle\Web.styles.css
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.csproj.Up2Date
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\refint\Web.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.pdb
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.genruntimeconfig.cache
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\ref\Web.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\appsettings.Development.json
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\appsettings.json
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.exe
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.deps.json
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.runtimeconfig.json
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.pdb
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\WebDriver.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Application.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Domain.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Infraestructure.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Application.pdb
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Infraestructure.pdb
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Domain.pdb
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.sourcelink.json
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets.build.json
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets.development.json
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.props
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.props
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\scopedcss\bundle\Web.styles.css
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.csproj.Up2Date
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\refint\Web.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.pdb
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.genruntimeconfig.cache
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\ref\Web.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\appsettings.json
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.exe
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.deps.json
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.runtimeconfig.json
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Web.pdb
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\WebDriver.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Application.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Domain.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Application.pdb
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\bin\Debug\net8.0\Domain.pdb
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.sourcelink.json
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.props
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.props
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\scopedcss\bundle\Web.styles.css
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.csproj.Up2Date
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\refint\Web.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.pdb
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\Web.genruntimeconfig.cache
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\API TPI Laboratorio3\obj\Debug\net8.0\ref\Web.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\appsettings.json
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\selenium-manager\linux\selenium-manager
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\selenium-manager\macos\selenium-manager
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\Web.exe
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\Web.deps.json
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\Web.runtimeconfig.json
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\Web.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\Web.pdb
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\WebDriver.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\Application.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\Domain.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\Infraestructure.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\Application.pdb
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\Infraestructure.pdb
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\bin\Debug\net8.0\Domain.pdb
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\Web.csproj.AssemblyReference.cache
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\Web.AssemblyInfoInputs.cache
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\Web.AssemblyInfo.cs
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\Web.csproj.CoreCompileInputs.cache
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.build.Web.props
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Web.props
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Web.props
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\scopedcss\bundle\Web.styles.css
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\Web.csproj.Up2Date
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\Web.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\refint\Web.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\Web.pdb
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\Web.genruntimeconfig.cache
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\API TPI Laboratorio3\obj\Debug\net8.0\ref\Web.dll

@@ -1,0 +1,6 @@
+@API_TPI_Laboratorio3_HostAddress = http://localhost:5077
+
+GET {{API_TPI_Laboratorio3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

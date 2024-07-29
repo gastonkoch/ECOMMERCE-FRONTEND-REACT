@@ -1,0 +1,151 @@
+.boxCustomer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.titleCustomerDiv {
+    width: 100%;
+    height: 100px; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative; 
+    top: 0; 
+    margin-bottom: 20px;
+    border-radius: 25px;
+    color: white;
+}
+
+.titleCustomerDiv > h1 {
+    background-color: #95aadf;
+    padding: 20px;
+    border-radius: 25px;
+}
+
+.containerCustomer {
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+}
+
+.row-title {
+    color: black;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+    background-color: #374568;
+    padding: 10px 0;
+}
+
+.row-title .title {
+    padding: 0 10px;
+    flex: 1;
+}
+
+.containerCustomer .row {
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.containerCustomer .row:last-child {
+    border-bottom: none;
+}
+
+.containerCustomer .col {
+    padding: 0 10px;
+    flex: 1;
+}
+
+.containerCustomer .row:nth-child(even) {
+    background-color: #d9e1f2;
+}
+
+.containerCustomer .row:nth-child(odd) {
+    background-color: #f4f6fc;
+}
+
+.empty-col {
+    margin-left: 20px;
+    flex: 0 0 45px !important;
+    padding: 0 !important;
+}
+
+.icono-grilla {
+    height: 20px !important; 
+    width: 16px !important;
+    object-fit: contain !important; 
+}
+
+
+.create{
+    height: 35px !important; 
+    width: 25px !important;
+    background-color: #95aadf;
+    border-radius: 20px;
+}
+
+.box-customer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 15px;
+}
+
+.rightCustomer{
+    margin-left: 10px;
+}
+
+
+.leftCustomer {
+    display: flex;
+    border-radius: 15px;
+    background-color: #95aadf;
+    min-width: 35%;
+    height: 50px;
+}
+
+.search-customer-p {
+    font-size: 18px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 12px;
+}
+
+.search-customer {
+    font-size: 18px;
+    margin-left: 10px;
+    margin-top: 8px;
+    height: 35px;
+    max-width: 350px;
+}
+
+.search-customer-button{
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 35px;
+    padding-bottom: 15px;
+    color:white;
+    border:#2c3959 ;
+    background-color: #2c3959 ;
+    font-size: 15px;
+}
+
+.search-customer-button:hover{
+    background-color: white;
+    color:#2c3959;
+    font-weight: bold;
+}
+
+.search-customer-button:disabled  {
+    background-color: #2c3959 ;
+    font-size: 15px;
+    color:white;
+    border:#2c3959 ;
+}
+
+
+
+

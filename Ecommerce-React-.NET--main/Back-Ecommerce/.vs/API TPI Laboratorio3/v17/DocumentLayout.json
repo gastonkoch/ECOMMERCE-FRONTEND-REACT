@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39566219-5109-4568-A1A7-8BBDA3FB98FC}|Infraestructure\\Infraestructure.csproj|c:\\users\\alerc\\onedrive\\escritorio\\laboratorio\\back\\apitpilaboratorio3\\infraestructure\\data\\mainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39566219-5109-4568-A1A7-8BBDA3FB98FC}|Infraestructure\\Infraestructure.csproj|solutionrelative:infraestructure\\data\\mainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0812512C-BC35-49E4-8EA1-B6D081EAACF2}|API TPI Laboratorio3\\Web.csproj|c:\\users\\alerc\\onedrive\\escritorio\\laboratorio\\back\\apitpilaboratorio3\\api tpi laboratorio3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0812512C-BC35-49E4-8EA1-B6D081EAACF2}|API TPI Laboratorio3\\Web.csproj|solutionrelative:api tpi laboratorio3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808A9CDB-BD24-4A91-8616-B4FAA155CF16}|Application\\Application.csproj|c:\\users\\alerc\\onedrive\\escritorio\\laboratorio\\back\\apitpilaboratorio3\\application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808A9CDB-BD24-4A91-8616-B4FAA155CF16}|Application\\Application.csproj|solutionrelative:application\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808A9CDB-BD24-4A91-8616-B4FAA155CF16}|Application\\Application.csproj|c:\\users\\alerc\\onedrive\\escritorio\\laboratorio\\back\\apitpilaboratorio3\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808A9CDB-BD24-4A91-8616-B4FAA155CF16}|Application\\Application.csproj|solutionrelative:application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF161E8-80A3-4AD1-86DF-1334D40E657C}|Domain\\Domain.csproj|c:\\users\\alerc\\onedrive\\escritorio\\laboratorio\\back\\apitpilaboratorio3\\domain\\interfaces\\imainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF161E8-80A3-4AD1-86DF-1334D40E657C}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\imainrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0812512C-BC35-49E4-8EA1-B6D081EAACF2}|API TPI Laboratorio3\\Web.csproj|c:\\users\\alerc\\onedrive\\escritorio\\laboratorio\\back\\apitpilaboratorio3\\api tpi laboratorio3\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0812512C-BC35-49E4-8EA1-B6D081EAACF2}|API TPI Laboratorio3\\Web.csproj|solutionrelative:api tpi laboratorio3\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0812512C-BC35-49E4-8EA1-B6D081EAACF2}|API TPI Laboratorio3\\Web.csproj|c:\\users\\alerc\\onedrive\\escritorio\\laboratorio\\back\\apitpilaboratorio3\\api tpi laboratorio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0812512C-BC35-49E4-8EA1-B6D081EAACF2}|API TPI Laboratorio3\\Web.csproj|solutionrelative:api tpi laboratorio3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{808A9CDB-BD24-4A91-8616-B4FAA155CF16}|Application\\Application.csproj|c:\\users\\alerc\\onedrive\\escritorio\\laboratorio\\back\\apitpilaboratorio3\\application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{808A9CDB-BD24-4A91-8616-B4FAA155CF16}|Application\\Application.csproj|solutionrelative:application\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 224,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\Application\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Application\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\Application\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Application\\Interfaces\\IUserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:04:00.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Application\\Services\\UserService.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAYwGwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:03:37.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IMainRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\Domain\\Interfaces\\IMainRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IMainRepository.cs",
+              "ToolTip": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\Domain\\Interfaces\\IMainRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IMainRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwB4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T19:02:55.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainRepository.cs",
+              "DocumentMoniker": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\Infraestructure\\Data\\MainRepository.cs",
+              "RelativeDocumentMoniker": "Infraestructure\\Data\\MainRepository.cs",
+              "ToolTip": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\Infraestructure\\Data\\MainRepository.cs",
+              "RelativeToolTip": "Infraestructure\\Data\\MainRepository.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAQwDsAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:29:22.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\Application\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\Application\\Services\\OrderService.cs",
+              "RelativeToolTip": "Application\\Services\\OrderService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCEAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:15:45.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\API TPI Laboratorio3\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API TPI Laboratorio3\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\API TPI Laboratorio3\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API TPI Laboratorio3\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAIEAAAAAAAAAAAAIwKUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:15:35.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\API TPI Laboratorio3\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "API TPI Laboratorio3\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\API TPI Laboratorio3\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "API TPI Laboratorio3\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T16:15:16.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\API TPI Laboratorio3\\Program.cs",
+              "RelativeDocumentMoniker": "API TPI Laboratorio3\\Program.cs",
+              "ToolTip": "C:\\Users\\alerc\\OneDrive\\Escritorio\\Laboratorio\\BACK\\APITPILaboratorio3\\API TPI Laboratorio3\\Program.cs",
+              "RelativeToolTip": "API TPI Laboratorio3\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T17:08:18.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

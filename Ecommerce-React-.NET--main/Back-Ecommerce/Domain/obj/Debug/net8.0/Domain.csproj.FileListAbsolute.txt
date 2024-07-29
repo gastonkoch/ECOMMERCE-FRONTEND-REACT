@@ -1,0 +1,59 @@
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Domain\bin\Debug\net8.0\Domain.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Domain\bin\Debug\net8.0\Domain.pdb
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.pdb
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Domain\bin\Debug\net8.0\Domain.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Domain\bin\Debug\net8.0\Domain.pdb
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.pdb
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.sourcelink.json
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Domain\obj\Debug\net8.0\ref\Domain.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Domain\bin\Debug\net8.0\Domain.deps.json
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Domain\bin\Debug\net8.0\Domain.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Domain\bin\Debug\net8.0\Domain.pdb
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Domain\obj\Debug\net8.0\Domain.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Domain\obj\Debug\net8.0\refint\Domain.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Domain\obj\Debug\net8.0\Domain.pdb
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Domain\obj\Debug\net8.0\ref\Domain.dll

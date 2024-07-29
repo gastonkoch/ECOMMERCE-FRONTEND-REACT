@@ -1,0 +1,105 @@
+.order-box{
+    display: flex;
+    justify-content: center;
+}
+
+.box-order {
+    display: flex;
+    margin-top: 10px;
+    background-color: #95aadf;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 25px;
+    margin-right: 25px;
+    border-radius: 25px;
+    justify-content: center;
+    min-width: 700px;
+}
+
+
+.left-order{
+    margin-right: 75px;
+    display: flex;
+    align-items: flex-end;
+    flex-direction: column;
+}
+
+.left-order > div {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.title-order{
+    font-weight: bold;
+}
+
+.container-order {
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    min-width: 500px;
+    background-color: #2c3959;
+}
+
+.container-order .row {
+    padding: 10px 0;
+    border-bottom: 1px solid #ccc;
+}
+
+.container-order .row:last-child {
+    border-bottom: none;
+}
+
+.container-order .col {
+    padding: 0 10px;
+    flex: 1;
+}
+
+.container-order .row:nth-child(even) {
+    background-color: #d9e1f2;
+}
+
+.container-order .row:nth-child(odd) {
+    background-color: #f4f6fc;
+}
+
+.margin-left-order{
+    margin-left: 100px;
+}
+
+.img-order{
+    display: flex;
+    justify-content: center
+}
+
+.amount-order{
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 25px;
+}
+
+.data-user-order{
+    margin-top: 25px;
+}
+
+.message-order{
+    display: flex;
+    justify-content: center;
+}
+
+.message-order > h3{
+    color: white;
+}
+
+@media (max-width: 768px) {
+    .box-order {
+        min-width: 600px;
+    }
+}
+
+@media (max-width: 637px) {
+    .box-order {
+        min-width: 550px;
+    }
+}

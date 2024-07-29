@@ -1,0 +1,86 @@
+.top {
+  flex: 1;
+}
+
+.product{
+  margin-top: 15px;
+}
+
+.box{
+  width: 300px;
+}
+
+.botonPagar {
+  margin-right: 20px;
+}
+
+.container-cart{
+  width: 300px;
+}
+
+.form-cart{
+  width: 400px;
+}
+
+.bot{
+  margin-left: 15px;
+}
+
+.quantity-update-input{
+  background-color: white;
+  color: black;
+  border: black;
+  border: black;
+}
+
+.quantity-update-input:active{
+  background-color: white;
+  color: black;
+  border: black;
+}
+
+.quantity-update-input:focus{
+  background-color: white;
+  color: black;
+  border: black;
+}
+
+.check-cart{
+  background-color: rgb(252, 242, 242);
+  border: 1.5px solid green;
+}
+
+.check-cart:hover{
+  background-color: rgb(252, 242, 242);
+  border: 1.5px solid green;
+}
+
+.check-cart:active{
+  background-color: rgb(252, 242, 242);
+  border: 1.5px solid green;
+}
+
+.check-cart:focus{
+  background-color: rgb(252, 242, 242);
+  border: 1.5px solid green;
+}
+
+.update-cart{
+  background-color: rgb(240, 214, 67);
+  border: rgb(240, 214, 67);
+}
+
+.update-cart:hover{
+  background-color: rgb(245, 210, 15);
+  border: rgb(245, 210, 15);
+}
+
+.update-cart:active{
+  background-color: rgb(245, 210, 15);
+  border: rgb(245, 210, 15);
+}
+
+.update-cart:focus{
+  background-color: rgb(245, 210, 15);
+  border: rgb(245, 210, 15);
+}

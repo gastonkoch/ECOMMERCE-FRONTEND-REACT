@@ -1,0 +1,79 @@
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Application\bin\Debug\net8.0\Application.deps.json
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Application\bin\Debug\net8.0\Application.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Application\bin\Debug\net8.0\Application.pdb
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Application\bin\Debug\net8.0\Domain.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Application\bin\Debug\net8.0\Domain.pdb
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Application\obj\Debug\net8.0\refint\Application.dll
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.pdb
+C:\SourceCode\BACK-TPI-LAB\APITPILaboratorio3\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Application\bin\Debug\net8.0\Application.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\GasTon\Desktop\API TPI Laboratorio 3\APITPILaboratorio3\Application\obj\Debug\net8.0\ref\Application.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Application\bin\Debug\net8.0\Application.deps.json
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Application\bin\Debug\net8.0\Application.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Application\bin\Debug\net8.0\Application.pdb
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Application\bin\Debug\net8.0\Domain.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Application\bin\Debug\net8.0\Domain.pdb
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Application\obj\Debug\net8.0\refint\Application.dll
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.pdb
+C:\SourceCode\BACK DE LABORATORIO ---------\APITPILaboratorio3\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Application\bin\Debug\net8.0\Application.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.sourcelink.json
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\alerc\OneDrive\Escritorio\Laboratorio\BACK\APITPILaboratorio3\Application\obj\Debug\net8.0\ref\Application.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Application\bin\Debug\net8.0\Application.deps.json
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Application\bin\Debug\net8.0\Application.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Application\bin\Debug\net8.0\Application.pdb
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Application\bin\Debug\net8.0\Domain.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Application\bin\Debug\net8.0\Domain.pdb
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Application\obj\Debug\net8.0\Application.csproj.AssemblyReference.cache
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Application\obj\Debug\net8.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Application\obj\Debug\net8.0\Application.AssemblyInfoInputs.cache
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Application\obj\Debug\net8.0\Application.AssemblyInfo.cs
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Application\obj\Debug\net8.0\Application.csproj.CoreCompileInputs.cache
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Application\obj\Debug\net8.0\Applicat.44B5EDA2.Up2Date
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Application\obj\Debug\net8.0\Application.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Application\obj\Debug\net8.0\refint\Application.dll
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Application\obj\Debug\net8.0\Application.pdb
+C:\Users\alerc\Desktop\TPILaboratorio3-main\APITPILaboratorio3-master\Application\obj\Debug\net8.0\ref\Application.dll

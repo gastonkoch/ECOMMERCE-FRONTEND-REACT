@@ -1,0 +1,58 @@
+.divLogin{
+    background-color: #95aadf;
+    border-radius: 50px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 350px;
+    height: 425px;
+}
+
+.labelForm{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
+
+.botonForm{
+    background-color: #2c3959;
+    font-size: 15px;
+    color:white;
+    border:#2c3959 ;
+}
+
+.botonForm:hover{
+    background-color: white !important;
+    color:#2c3959 !important;
+    font-weight: bold;
+}
+
+.pLogin{
+    color: white;
+}
+
+.pLogin:hover{
+    color: #800080;
+    text-decoration: underline;
+}
+
+.formGroup{
+    margin: 10px auto;
+}
+
+.divLogin>h1{
+    font-size: 30px;
+    margin-bottom: 23px;
+}
+
+.divBox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 250px;
+}
+
+.box-button-login{
+    display: flex;
+    justify-content: center;
+}
